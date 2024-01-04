@@ -1,6 +1,6 @@
 # Computer Networking: A Top Down Approach (7th Edition)
 
-My solutions to the programming assignments & wireshark captures from this great book by James Kurose & Keith Ross.
+Programming assignments & wireshark captures.
 
 ### Links
 
